@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  DishWasherApp
+//  Dishwasher
 //
-//  Created by Admin on 5/14/18.
-//  Copyright © 2018 Admin. All rights reserved.
+//  Created by mac on 5/14/18.
+//  Copyright © 2018 mobileappscompany. All rights reserved.
 //
 
 import UIKit
@@ -53,7 +53,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          application to it. This property is optional since there are legitimate
          error conditions that could cause the creation of the store to fail.
         */
-        let container = NSPersistentContainer(name: "DishWasherApp")
+        let container = NSPersistentContainer(name: "Dishwasher")
         container.loadPersistentStores(completionHandler: { (storeDescription, error) in
             if let error = error as NSError? {
                 // Replace this implementation with code to handle the error appropriately.

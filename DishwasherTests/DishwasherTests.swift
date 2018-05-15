@@ -1,15 +1,15 @@
 //
-//  DishWasherAppTests.swift
-//  DishWasherAppTests
+//  DishwasherTests.swift
+//  DishwasherTests
 //
-//  Created by Admin on 5/14/18.
-//  Copyright © 2018 Admin. All rights reserved.
+//  Created by mac on 5/14/18.
+//  Copyright © 2018 mobileappscompany. All rights reserved.
 //
 
 import XCTest
-@testable import DishWasherApp
+@testable import Dishwasher
 
-class DishWasherAppTests: XCTestCase {
+class DishwasherTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

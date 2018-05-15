@@ -1,14 +1,14 @@
 //
-//  DishWasherAppUITests.swift
-//  DishWasherAppUITests
+//  DishwasherUITests.swift
+//  DishwasherUITests
 //
-//  Created by Admin on 5/14/18.
-//  Copyright © 2018 Admin. All rights reserved.
+//  Created by mac on 5/14/18.
+//  Copyright © 2018 mobileappscompany. All rights reserved.
 //
 
 import XCTest
 
-class DishWasherAppUITests: XCTestCase {
+class DishwasherUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
